@@ -32,6 +32,7 @@ class Student:
 def displaySomething():
 	print "displaySomething"
 
+displaySomething()
 
 class StudentLike(Student):
 	"""docstring for StudentLike"""
